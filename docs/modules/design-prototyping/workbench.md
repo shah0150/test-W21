@@ -1,0 +1,2 @@
+# MAMP - phpMyAdmin - MySQL Workbench
+

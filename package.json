@@ -1,0 +1,15 @@
+{
+  "name": "mad9145-w20",
+  "description": "Applied Projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.14.4"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "gitty": "git add -A && git commit -m \"general update\" && git push origin master && exit 0"
+  }
+}
